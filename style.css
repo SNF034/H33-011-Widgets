@@ -23,7 +23,9 @@ button:hover{
 }
 
 .main{
-    background-image: url("img/Milk_and_Mocha_Bear_bg.jpg");
+    display: flex;
+    height: 90vh; 
+    background-image: url("img/light_brown_bg.jpg");
     background-repeat: no-repeat;
     background-size:cover;
 }
